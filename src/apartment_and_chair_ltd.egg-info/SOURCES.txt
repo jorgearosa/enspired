@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+src/apartment_and_chair_ltd/__init__.py
+src/apartment_and_chair_ltd/get_chair_plan.py
+src/apartment_and_chair_ltd.egg-info/PKG-INFO
+src/apartment_and_chair_ltd.egg-info/SOURCES.txt
+src/apartment_and_chair_ltd.egg-info/dependency_links.txt
+src/apartment_and_chair_ltd.egg-info/top_level.txt
